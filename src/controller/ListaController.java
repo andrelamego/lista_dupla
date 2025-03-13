@@ -18,9 +18,6 @@ public class ListaController {
         lista.insert("Andre");
         lista.insert("Henrique");
 
-        //lista.printAsc();
-        //lista.printDesc();
-
         return lista.printAsc();
     }
 
